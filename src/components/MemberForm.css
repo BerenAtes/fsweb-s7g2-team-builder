@@ -1,0 +1,25 @@
+form {
+  padding: 1.5rem;
+  margin: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  background-color: pink;
+  border-radius: 0.5rem;
+  box-shadow: 6px 6px rgb(107, 48, 68);
+}
+
+form label {
+  border-bottom: 1px solid rgb(120, 77, 84);
+  margin: 10px 0;
+  text-align: justify;
+}
+
+form input {
+  margin: 10px;
+  border-radius: 0.5rem;
+}
+
+button {
+  border-radius: 0.5rem;
+  font-weight: bold;
+}
